@@ -1,4 +1,4 @@
-# Python---SQL-Data-Ingestion
+# Python - SQL Data Ingestion and Data Management
 
 This repository documents the outcomes of Stage 1 (data collection) and Stage 2 (Data Management).
 
